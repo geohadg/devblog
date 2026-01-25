@@ -24,3 +24,5 @@ I have chosen to use the TWS API with a Python Client, since it is my most famil
 I followed the Instructions at: https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/ to properly configure TWS and the API
 
 After getting my paper trading account linked to practice with real data in a simulated environment
+
+## Currently In Progress
