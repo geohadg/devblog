@@ -1,5 +1,7 @@
 ---
 title: Investment Tracking and Management with IBKR API
+subject: Programming, Finance
+date: January 25th, 2026
 ---
 ## Abstract
 

@@ -1,5 +1,7 @@
 ---
 title: Password Management with SQLCipher
+subject: Programming
+date: January 14th, 2026
 ---
 
 Using Python and its integration with SQLCipher in sqlcipher3 I can create and manage encrypted tables of any information I want, namely credentials

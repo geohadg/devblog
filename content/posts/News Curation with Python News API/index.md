@@ -1,5 +1,7 @@
 ---
 title: News Curation with Python News API
+subject: Programming
+date: January 14th, 2026
 ---
 I've found myself feeling disconnected from current events for a few years now and I've been trapped in the loop of wanting to find news sources I can trust to read from regularly, but then find myself just skimming a hundred different sources because I'm not sure what to read.
 
