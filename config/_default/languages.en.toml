@@ -1,8 +1,8 @@
 disabled = false
 languageCode = "en"
 languageName = "English"
-weight = 1
-title = "Development Blog"
+weight = 5
+title = "> _ <"
 
 [params]
   displayName = "EN"
