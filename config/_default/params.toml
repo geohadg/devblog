@@ -50,7 +50,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "background.jpg" # used in: hero, and card
   showRecent = true
   showHero = true
@@ -59,9 +59,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showMoreLink = true
   showMoreLinkDest = "posts"
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   layoutBackgroundBlur = true # only used when layout equals background
-  disableHeroImageFilter = false # only used when layout equals hero
+  disableHeroImageFilter = true # only used when layout equals hero
 
 [article]
   showDate = true
@@ -77,7 +77,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showDraftLabel = false
-  showEdit = true
+  showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
