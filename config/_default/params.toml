@@ -64,7 +64,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
-  showDate = true
+  showDate = false
   showViews = true
   showLikes = false
   showDateOnlyInArticle = true
@@ -101,8 +101,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showSummary = false
-  showViews = false
+  showSummary = true
+  showViews = true
   showLikes = false
   showTableOfContents = false
   showCards = false
