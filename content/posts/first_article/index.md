@@ -1,6 +1,5 @@
 ---
 title: Welcome! First Post
-date: January 03, 2026
 ---
 
 # Welcome to my development blog!
