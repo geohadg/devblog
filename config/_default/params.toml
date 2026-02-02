@@ -40,7 +40,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -51,10 +51,10 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "content/featured.jpg" # used in: hero, and card
+  homepageImage = "blog/content/featured.jpg" # used in: hero, and card
   showRecent = true
   showHero = true
-#  heroStyle = "background"
+  heroStyle = "background"
   showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "posts"
