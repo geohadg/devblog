@@ -1,7 +1,7 @@
 ---
 title: RAG with Ollama & LangChain
 subject: Programming
-date: 2024-02-02T04:14:54-08:00
+date: 2026-01-02T04:14:54-08:00
 ---
 Retrieval Augmented Generation or RAG, is a technology developed to further the capabilities of LLM's by giving them access to a database full of context that they can use to formulate responses.
 
