@@ -19,10 +19,10 @@ replyByEmail = false
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = false
-disableImageOptimizationMD = false
+disableImageOptimization = true
+disableImageOptimizationMD = true
 disableTextInHeader = false
-# backgroundImageWidth = 1200
+backgroundImageWidth = 1200
 
  defaultBackgroundImage = "featured.jpg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
@@ -30,7 +30,7 @@ disableTextInHeader = false
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
 
-# highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
