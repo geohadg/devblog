@@ -9,13 +9,13 @@ title = " > _ <"
   isoCode = "en"
   rtl = false
   dateFormat = "January 02 2006"
-  logo = "img/comp2.png"
+#  logo = "img/comp2.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-    name = "Donavin"
+    name = "> ^_^ <"
 #   email = "youremail@example.com"
     image = "img/author-icon.png"
     imageQuality = 50
