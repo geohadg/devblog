@@ -2,14 +2,14 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 5
-title = "> _ <"
+title = " > _ <"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "January 02 2006"
-  # logo = "img/logo.png"
+  logo = "img/comp2.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -17,7 +17,7 @@ title = "> _ <"
 [params.author]
     name = "Donavin"
 #   email = "youremail@example.com"
-    image = "img/comp2.png"
+    image = "img/author-icon.png"
     imageQuality = 50
     headline = "I'm here"
 #   bio = "A little bit about you"
