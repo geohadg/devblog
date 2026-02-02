@@ -47,13 +47,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
-  showScrollToTop = true
+  showScrollToTop = false
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "featured.jpg" # used in: hero, and card
   showRecent = false
-  showHero = false
+  showHero = true
   heroStyle = "background"
   showRecentItems = 5
   showMoreLink = true
@@ -73,7 +73,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showDraftLabel = false
@@ -105,11 +105,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showViews = true
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   orderByWeight = false
   groupByYear = true
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   constrainItemsWidth = false
 
 [sitemap]
